@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
-title_separator          : 
-name                     : &name "Yuxuan Liu"
-description              : &description "Email: yxliu@ucla.edu"
+title                    : "Yuxuan Liu"
+title_separator          : ""
+name                     : &name ""
+description              : &description ""
 url                      : https://felix-lyx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "felix-lyx/felix-lyx.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuxuan Liu"
   avatar           : ""
-  bio              : 
+  bio              : "Email: yxliu@ucla.edu"
   location         : 
   employer         :
   pubmed           : 
