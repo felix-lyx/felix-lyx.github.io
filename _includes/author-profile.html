@@ -5,7 +5,8 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-
+  
+  {% if author.avatar %}
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
@@ -13,9 +14,10 @@
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
-
+  {% endif %}
+ 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.name %}<h3 class="author__name">{{ author.name }}</h3>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
