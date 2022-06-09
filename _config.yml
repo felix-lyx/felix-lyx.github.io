@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : 
 title_separator          : 
 name                     : &name "Yuxuan Liu"
-description              : 
+description              : "Email: yxliu@ucla.edu"
 url                      : https://felix-lyx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "felix-lyx/felix-lyx.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yxliu@ucla.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
