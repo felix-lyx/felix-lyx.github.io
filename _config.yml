@@ -82,11 +82,11 @@ analytics:
 author:
   name             : 
   avatar           : 
-  bio              : "Email: yxliu@ucla.edu"
+  bio              : "Email: yxliu@math.ucla.edu"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=SbieiN4AAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
