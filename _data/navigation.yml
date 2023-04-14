@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Miscellaneous"
+    url: /misc/
+
   # - title: "Publications"
   #   url: /publications/
 
