@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: archive
+permalink: /misc/
 title: "Miscellaneous"
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /misc/
