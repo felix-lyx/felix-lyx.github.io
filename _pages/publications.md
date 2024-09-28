@@ -36,7 +36,7 @@ author_profile: true
   **Yuxuan Liu**, Scott G. McCalla, and Hayden Schaeffer. \
   *Proceedings of the Royal Society A 479 (2275), 20220835,* 2023. [[code]](https://github.com/felix-lyx/random_feature_interacting_system)
   
-- ### [Surfactant Dynamics from the Arnold Perspective]()
+- ### [Surfactant Dynamics from the Arnold Perspective](https://www.siam.org/media/pfjj1noh/s137814pdf.pdf)
 
   J. Jenkins, C. Lee, **Y. Liu**, E. Lu, and D. Reed.\
   *SIAM Undergraduate Research Online 14,* 2021.
