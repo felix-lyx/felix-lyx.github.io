@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-# Publications
-
 ## Preprints
 
 - ### [PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics](https://arxiv.org/abs/2409.09811) 
