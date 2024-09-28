@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Yuxuan Liu"
   avatar           : 
-  bio              : "Email: yxliu@math.ucla.edu"
-  location         : 
+  bio              : "Applied Math PhD Candidate at UCLA"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SbieiN4AAAAJ&hl=en"
-  email            : 
+  email            : "yxliu@math.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
