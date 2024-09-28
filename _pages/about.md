@@ -8,10 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-## Bio
+## About me
 
-I am a second year Ph.D. student in applied math at UCLA, working with Professor [Hayden Schaeffer](http://www.math.ucla.edu/~hayden). I obtained my B.S. and M.S. in Mathematical Sciences as well as B.S. in Computer Science from CMU.  
+I am a third year Ph.D. candidate in applied math at UCLA, working with Professor [Hayden Schaeffer](http://www.math.ucla.edu/~hayden). I obtained M.A. in Mathematics from UCLA in 2024, B.S. and M.S. in Mathematical Sciences as well as B.S. in Computer Science from CMU in 2022.  
 
-My research interests include mathematical machine learning, applied analysis, and optimization.
+My research interests include scientific foundation models and mathematical machine learning.
+
+---
+
+## Contact
+
+- Email: yxliu [at] math.ucla.edu
+- Office: Mathematical Sciences 3915E
 
 ---
