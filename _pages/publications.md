@@ -8,10 +8,15 @@ author_profile: true
 
 ## Preprints
 
+- ### [VICON: Vision In-Context Operator Networks for Multi-Physics Fluid Dynamics Prediction](https://arxiv.org/abs/2411.16063)
+
+  Yadi Cao\*, **Yuxuan Liu**\*, Liu Yang, Rose Yu, Hayden Schaeffer, Stanley Osher. \
+  *arXiv preprint arXiv:2411.16063,* 2024.
+
 - ### [PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics](https://arxiv.org/abs/2409.09811) 
   
   **Yuxuan Liu**, Jingmin Sun, Xinjie He, Griffin Pinney, Zecheng Zhang, and Hayden Schaeffer. \
-  *arXiv preprint arXiv:2409.09811,* 2024. [[code]](https://github.com/felix-lyx/prose)
+  *arXiv preprint arXiv:2409.09811,* 2024. To appear in *NeurIPS 2024 Foundation Models for Science Workshop.* [[code]](https://github.com/felix-lyx/prose)
 
 - ### [Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey](https://arxiv.org/abs/2408.12171)
 
@@ -29,7 +34,7 @@ author_profile: true
 - ### [PROSE: Predicting Multiple Operators and Symbolic Expressions using Multimodal Transformers](https://doi.org/10.1016/j.neunet.2024.106707)
 
   **Yuxuan Liu**, Zecheng Zhang, and Hayden Schaeffer. \
-  *Neural Networks, 106707,* 2024. [[code]](https://github.com/felix-lyx/prose)
+  *Neural Networks, 180:106707,* 2024. [[code]](https://github.com/felix-lyx/prose)
 
 - ### [Random Feature Models for Learning Interacting Dynamical Systems](https://doi.org/10.1098/rspa.2022.0835)
 
