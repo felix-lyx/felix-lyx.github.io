@@ -12,19 +12,19 @@ redirect_from:
 
 I am a fourth year Ph.D. candidate in applied math at UCLA, working with Professor [Hayden Schaeffer](http://www.math.ucla.edu/~hayden). My research interests include scientific foundation models and mathematical machine learning.
 
-### Education
+## Education
 
-#### University of California, Los Angeles
+### University of California, Los Angeles
 - Ph.D. in Applied Mathematics, 2022-present
 - M.A. in Mathematics, 2024
 
-#### Carnegie Mellon University
+### Carnegie Mellon University
 - B.S./M.S. in Mathematical Sciences, 2018-2022
 - B.S. in Computer Science, 2018-2022
 
-### Work Experience
+## Work Experience
 
-#### ByteDance, Seed AI for Science
+### ByteDance, Seed AI for Science
 - Research Scientist Intern, June 2025 - Dec 2025
 - Working on foundation models for protein conformation dynamics
 
